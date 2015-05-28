@@ -7,8 +7,6 @@
     "templates": ["template.html"],
     "dependencies": {
         "serandomps/dust": "master",
-        "serandomps/serand": "master",
-        "serandomps/socket.io": "master",
-        "serandomps/loading": "master"
+        "serandomps/serand": "master"
     }
 }
