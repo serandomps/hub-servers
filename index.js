@@ -8,7 +8,7 @@ module.exports = function (sandbox, fn, options) {
     $.ajax({
         url: '/apis/v/servers',
         headers: {
-            'x-host': 'hub.serandives.com:4000'
+            'X-Host': 'hub.serandives.com:4000'
         },
         dataType: 'json',
         success: function (data) {
